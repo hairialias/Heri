@@ -55,12 +55,6 @@ a:hover{
 	padding-top:100px;
 }
 
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color:#47ABAB;
-  color: white;
-}
-
 .bottom-container{
 	background-color:#66BFBF;
 	padding:30px 0 20px;
